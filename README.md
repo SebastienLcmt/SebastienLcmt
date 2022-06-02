@@ -3,8 +3,6 @@
 <hr>
 
 
-<hr>
-
 <h3 align="center">Front-end Stack</h3>
 <br>
 <p align="center"> 
