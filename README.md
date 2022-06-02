@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sébastien</h1>
 <h3 align="center">An aspiring Web Developer</h3>
 <hr>
-<h4 align="center"> 🌱 I’m currently learning MongoDB </h4>
+
 
 <hr>
 
